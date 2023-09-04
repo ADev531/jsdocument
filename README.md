@@ -92,6 +92,12 @@ three, not uses JSTitleObject from JSObjects, it uses JSPage.SetTitle(title)!<br
 <br>
 originally, JSDocument used express.js and on older version JSDocument better than JSPage (but older version not haves JSPage).<br>
 <br>
+
 # All-in-one Hello World example - jsdocument
 <br>
 <a href="https://github.com/ADev531/jsdocument-all-in-one-example">All-In-one</a>
+<br>
+
+# Other Versions and Beta version - jsdocument
+<br>
+<a href="https://github.com/ADev531/jsdocument">JSDocument Github</a>
